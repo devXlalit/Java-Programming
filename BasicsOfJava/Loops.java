@@ -1,3 +1,4 @@
+package BasicsOfJava;
 public class Loops {
     public static void main(String[] args) {
         int n = 10;

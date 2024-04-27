@@ -1,3 +1,4 @@
+package BasicsOfJava;
 
 public class TypeCastin {
     public static void main(String[] args) {

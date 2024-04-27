@@ -1,3 +1,4 @@
+package BasicsOfJava;
 import java.util.Scanner;
 
 public class InputVal {
