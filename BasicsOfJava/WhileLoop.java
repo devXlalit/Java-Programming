@@ -1,5 +1,6 @@
 package BasicsOfJava;
-public class Loops {
+
+public class WhileLoop {
     public static void main(String[] args) {
         int n = 10;
         while (n >= 1) {
@@ -13,6 +14,7 @@ public class Loops {
             k++;
 
         } while (k <= 10);
+        
     }
 
     // Q - Write a program in java to print the multiplication table of user entered
