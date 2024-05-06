@@ -14,3 +14,6 @@ public class TwoSum {
         }
     }
 }
+
+// Assignment - Q.Write a program in java to check wheather an interget in
+// duplicate or not if integet in duplicate print true else print false
