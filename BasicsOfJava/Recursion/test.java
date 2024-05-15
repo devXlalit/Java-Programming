@@ -5,8 +5,8 @@ public class test {
         if (a <= 0) {
             return;
         }
-        numbers(a - 1);
         System.out.println(a);
+        numbers(a - 1);
     }
 
     // Recursion
@@ -15,7 +15,7 @@ public class test {
     // Repeated task
 
     public static void main(String[] args) {
-        numbers(5);
+        numbers(10);
     }
 
     // Assignment
