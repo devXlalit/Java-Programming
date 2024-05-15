@@ -14,3 +14,9 @@ public class Multiplicationtable {
         mulitplicationT(n, 1);
     }
 }
+
+// Assignements -
+// Q - Write a java program using Recursion to print the factorial of a number
+// given by user
+// Q - Write a java program using Recursion to print the n fibonnaci series
+// given by user
