@@ -1,11 +1,11 @@
 package BasicsOfJava.OOPS;
 
-public class opp {
+public class ClassesObj {
     int a = 5; // attribute
     static int b = 12;// attribute
 
     public static void main(String[] args) { // Method
-        opp mereObj = new opp(); // copy
+        ClassesObj mereObj = new ClassesObj(); // copy
 
         mereObj.a = 12;
         System.out.println("meraObj call hua: " + mereObj.a);
@@ -25,7 +25,7 @@ public class opp {
         b = 45;
         // System.out.println("Sum method a : " + a);
         System.out.println("Sum method b : " + b);
-        opp myObject = new opp();
+        ClassesObj myObject = new ClassesObj();
         System.out.println("The myObject a is: " + myObject.a);
     }
 }
