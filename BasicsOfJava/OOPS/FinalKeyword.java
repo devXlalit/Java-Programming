@@ -4,7 +4,7 @@ public class FinalKeyword {
     final float PI = 3.14f;
     float pi = 3.14f;
 
-    final void hello(String name) {
+    public void hello(String name) {
 
         System.out.println("Hello " + name);
     }
