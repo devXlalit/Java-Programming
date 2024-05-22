@@ -2,7 +2,7 @@ package BasicsOfJava;
 
 public class VariableScoping {
     public static void main(String[] args) {
-        int a = 12;
+        int r = 12;
         // int a = 45;
         // System.out.println(a);
 
